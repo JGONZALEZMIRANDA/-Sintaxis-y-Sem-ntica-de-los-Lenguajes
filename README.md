@@ -1,4 +1,4 @@
-# -Sintaxis-y-Sem-ntica-de-los-Lenguajes
+# SSL
 Repositorio Personal para Trabajos Individuales
 
 Sintaxis y Semantica de los Lenguajes
