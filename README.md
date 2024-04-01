@@ -1,5 +1,5 @@
 # SSL
-gitRepositorio Personal para Trabajos Individuales
+Repositorio Personal para Trabajos Individuales
 
 - Sintaxis y Semantica de los Lenguajes
 - K-2051
